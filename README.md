@@ -1,11 +1,11 @@
 ## PROJECT: VOIZ FM USER ANALYSIS
 
 ## OVERVIEW
-This repository contains a Python report from Databricks to analyse subscription users' retention rates, total revenue, and average revenue per user over a period of 12 months.
+This repository contains a Python report from Databricks analysing subscription users' retention rates, total revenue, and average revenue per user over a 12-month period.
 
 ## FEATURES
 - Data loading, preparation, and analysis with Python libraries
-- Visualizations using Python libraries (matplotlib, seaborn)
+- Visualizations generated using Python libraries, including Matplotlib and Seaborn.
 
 ## WORKFLOWS
 - Data exploration
@@ -13,6 +13,9 @@ This repository contains a Python report from Databricks to analyse subscription
 - Analysis
 - Conclusion
 
+Please download the PDF file for further details.
+
+These are some highlights from the report, as shown by screenshots
 ## SREENSHOTS
 ### Retention rates:
 One-month Appstore users
@@ -64,4 +67,5 @@ Appstore users
 Play Store users
 
 <img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/f605c58d-5c3d-4a91-a7d4-240f91ae0aaa" />
+
 
