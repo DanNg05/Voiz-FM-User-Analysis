@@ -16,6 +16,7 @@ This repository contains a Python report from Databricks analysing subscription 
 Please download the PDF file for further details.
 
 These are some highlights from the report, as shown by screenshots
+
 ## SREENSHOTS
 ### Retention rates:
 One-month Appstore users
@@ -67,5 +68,6 @@ Appstore users
 Play Store users
 
 <img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/f605c58d-5c3d-4a91-a7d4-240f91ae0aaa" />
+
 
 
